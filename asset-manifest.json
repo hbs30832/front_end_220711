@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nepp_movie_front/static/css/main.e6c13ad2.css",
+    "main.js": "/nepp_movie_front/static/js/main.6e97d706.js",
+    "static/js/787.0dce4e15.chunk.js": "/nepp_movie_front/static/js/787.0dce4e15.chunk.js",
+    "index.html": "/nepp_movie_front/index.html",
+    "main.e6c13ad2.css.map": "/nepp_movie_front/static/css/main.e6c13ad2.css.map",
+    "main.6e97d706.js.map": "/nepp_movie_front/static/js/main.6e97d706.js.map",
+    "787.0dce4e15.chunk.js.map": "/nepp_movie_front/static/js/787.0dce4e15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6e97d706.js"
+  ]
+}
